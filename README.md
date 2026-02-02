@@ -18,5 +18,3 @@ A simple console application that stores students and grades in a local JSON fil
 The app will create/update `gradebook.json` in the same folder.
 
 
-## Notes
-- This repository is intended as a clean, small portfolio project for internship applications.
